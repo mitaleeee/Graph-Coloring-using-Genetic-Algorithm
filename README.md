@@ -17,7 +17,7 @@ This Python project solves the **Graph Coloring Problem** using a **Genetic Algo
 - Real-time Visualization using `networkx` and `matplotlib`
 - Color Optimization: Attempts to reduce color count after reaching valid solution
 
-## 🛠Technologies Used
+## Technologies Used
 
 - Python
 - Genetic Algorithms
